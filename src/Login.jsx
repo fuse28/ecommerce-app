@@ -83,7 +83,7 @@ function Login() {
                   className="signup-btn text-center text-info"
                   onClick={toggleSignup}
                 >
-                  Have a account? Login here
+                  Having an account? Login here
                 </div>
                 <div className="auth-error-msg text-danger text-center"></div>
               </div>
